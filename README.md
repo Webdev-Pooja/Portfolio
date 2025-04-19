@@ -1,4 +1,4 @@
 # Portfolio
-Welcome to my portfolio website, 
+Welcome to my Portfolio website, 
 <br>
 where I showcase my design experience and projects.
