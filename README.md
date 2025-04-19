@@ -1,3 +1,2 @@
 # Portfolio
-This is my Portfolio Website Design
-In which  you'll find about me 
+Welcome to my portfolio website, where I showcase my design experience and projects.
